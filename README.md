@@ -1,7 +1,7 @@
 # AutoMISD
 A wrapper for the Model Independent Stochastic Declustering
 
-### Breif:
+### Brief:
 This is a wrapper for MISD by Marsan D., and O. Lengliné (2008). Main program is included but may also be found here:
 https://isterre.fr/annuaire/pages-web-du-personnel/david-marsan/article/model-independent-stochastic?lang=en
 
