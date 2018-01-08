@@ -16,16 +16,16 @@ This program will modify the catalog and format it for MISD input using routines
 for the Zmap project.
 
 The output will be placed in a folder called Output (auto-generated) and consist of the MISD output and 2 more files:
-CCatalog.csv: Clustered Catalog in Zmap format.
-DCCatalog.csv: Declustered Catalog in Zmap format.
+  * CCatalog.csv: Clustered Catalog in Zmap format.
+  * DCCatalog.csv: Declustered Catalog in Zmap format.
 
 ### Dependencies
 
-Bash-capable linux
-Octave
-GCC Compiler
+  1. Bash-capable linux
+  2. Octave
+  3. GCC Compiler
 
 ### Acknolegments:
-Marsan D., and O. Lengliné (2008), Extending earthquake’ reach through cascading, Science, 319, 1076-1079.
-S. Wiemer (2001) A Software Package to Analyze Seismicity: ZMAP, Seismological Research Letters, Vol. 72, 373-382, 2001.
-Thomas van Stiphout (2007) for the Zmap routiens for MISD.
+ * Marsan D., and O. Lengliné (2008), Extending earthquake’ reach through cascading, Science, 319, 1076-1079.
+ * S. Wiemer (2001) A Software Package to Analyze Seismicity: ZMAP, Seismological Research Letters, Vol. 72, 373-382, 2001.
+ * Thomas van Stiphout (2007) for the Zmap routiens for MISD.
