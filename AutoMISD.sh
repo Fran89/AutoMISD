@@ -43,6 +43,7 @@ echo "Begin pre-proccessing the catalog"
   octave $CurDir/bin/scripts/preproccess.m $CurDir/bin/scripts/ $CurDir/Input/Icat.dat
   mv Ocat.dat ./Input
   mv Ocor.dat ./Input
+  mv Icat.csv ./Output
 echo "Catalog pre-proccessing done"
 
 # Prep MISD

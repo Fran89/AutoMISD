@@ -29,6 +29,7 @@ tic();
 catalog = CSVInput(1,arg_list{2});
 export4misd(catalog,'Ocat.dat');
 calc_misdMcorr(catalog,'Ocor.dat');
+csvwrite('Icat.csv', catalog)
 elapsed = toc();
 printf("Catalogs prepared in %.4f seconds\n", elapsed);
 

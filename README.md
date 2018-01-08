@@ -15,9 +15,10 @@ MISD and an input file will be compiled and created in the first run of this pro
 This program will modify the catalog and format it for MISD input using routines by Thomas van Stiphout (2007)
 for the Zmap project.
 
-The output will be placed in a folder called Output (auto-generated) and consist of the MISD output and 2 more files:
+The output will be placed in a folder called Output (auto-generated) and consist of the MISD output and 3 more files:
   * CCatalog.csv: Clustered Catalog in Zmap format.
   * DCCatalog.csv: Declustered Catalog in Zmap format.
+  * Icat.csv: Complete Catalog in Zmap format.
 
 ### Dependencies
 
