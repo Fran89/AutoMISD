@@ -29,4 +29,4 @@ The output will be placed in a folder called Output (auto-generated) and consist
 ### Acknowledgments:
  * Marsan D., and O. Lengliné (2008), Extending earthquake’ reach through cascading, Science, 319, 1076-1079.
  * S. Wiemer (2001) A Software Package to Analyze Seismicity: ZMAP, Seismological Research Letters, Vol. 72, 373-382, 2001.
- * Thomas van Stiphout (2007) for the Zmap routiens for MISD.
+ * Thomas van Stiphout (2007) for the Zmap routines for MISD.
