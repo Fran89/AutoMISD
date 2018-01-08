@@ -8,7 +8,7 @@ https://isterre.fr/annuaire/pages-web-du-personnel/david-marsan/article/model-in
 ### Usage:
 
 A catalog must be placed in this directory in the Comma Separated Values following the format:
-Year	Month	Day	Hour	Minute	Sec	Lat	Lon	Depth	Mag
+  * Year	Month	Day	Hour	Minute	Sec	Lat	Lon	Depth	Mag
 
 Then AutoMISD must be run. It will ask for the catalog name and threshold value.
 MISD and an input file will be compiled and created in the first run of this program.
